@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PREDIQT\\11.Proyectos\\Tickets\\6275732\\AppServices\\WebApps\\lfgawebsite\\lfgawebsite.csproj": {}
+    "C:\\PREDIQT\\11.Proyectos\\Tickets\\6275732\\AppServices\\WebApps\\SitioWebLfga\\lfgawebsite\\lfgawebsite.csproj": {}
   },
   "projects": {
-    "C:\\PREDIQT\\11.Proyectos\\Tickets\\6275732\\AppServices\\WebApps\\lfgawebsite\\lfgawebsite.csproj": {
+    "C:\\PREDIQT\\11.Proyectos\\Tickets\\6275732\\AppServices\\WebApps\\SitioWebLfga\\lfgawebsite\\lfgawebsite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PREDIQT\\11.Proyectos\\Tickets\\6275732\\AppServices\\WebApps\\lfgawebsite\\lfgawebsite.csproj",
+        "projectUniqueName": "C:\\PREDIQT\\11.Proyectos\\Tickets\\6275732\\AppServices\\WebApps\\SitioWebLfga\\lfgawebsite\\lfgawebsite.csproj",
         "projectName": "lfgawebsite",
-        "projectPath": "C:\\PREDIQT\\11.Proyectos\\Tickets\\6275732\\AppServices\\WebApps\\lfgawebsite\\lfgawebsite.csproj",
+        "projectPath": "C:\\PREDIQT\\11.Proyectos\\Tickets\\6275732\\AppServices\\WebApps\\SitioWebLfga\\lfgawebsite\\lfgawebsite.csproj",
         "packagesPath": "C:\\Users\\LuisGuevara\\.nuget\\packages\\",
-        "outputPath": "C:\\PREDIQT\\11.Proyectos\\Tickets\\6275732\\AppServices\\WebApps\\lfgawebsite\\obj\\",
+        "outputPath": "C:\\PREDIQT\\11.Proyectos\\Tickets\\6275732\\AppServices\\WebApps\\SitioWebLfga\\lfgawebsite\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LuisGuevara\\AppData\\Roaming\\NuGet\\NuGet.Config",
